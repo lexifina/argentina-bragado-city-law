@@ -1,0 +1,15 @@
+Ordenanza Nº2530
+Ordenanza Nº 2530
+Bragado, 05/08/2019
+VISTO:
+Lo acontecido el pasado 2 de agosto de 2018 a las 8:06 horas, momento en el cual producto de un escape de gas en las instalaciones de la escuela primaria N° 49 del Distrito de Moreno, se genera una explosión que termina llevándose la vida de dos trabajadores y compañeros, que luchaban por la dignidad de la escuela pública y por el resguardo de derechos de los más vulnerables, en su trabajo cotidiano;
+CONSIDERANDO:
+Que, este hecho constituyó para el conjunto de la comunidad educativa de la Provincia de Buenos Aires una conmoción de enorme repercusión social y política de estos últimos años. Decenas de miles de personas, familias enteras, comunidades, se encontraron cara a cara con un conjunto de derechos que estaban siendo cercenados;
+Que Sandra Calamano y Rubén Rodriguez, sin importar el rol que cumplía cada uno en la escuela, eran Trabajadores de la Educación reconocidos por su quehacer cotidiano en la promoción y defensa de la escuela pública. En ese espacio, la escuela, donde se promueven y garantizan derechos, Sandra y Rubén encontraron la muerte, en el lugar que debería ser seguro y digno para los trabajadores, los niños, niñas y adolescentes que allí se encuentran;
+Que, a partir de aquel 2 de agosto, columnas interminables de ciudadanos se movilizaron para exigir justicia por Sandra y Rubén, tanto en el Distrito de Moreno como en diversos actos y manifestaciones realizadas a lo largo de toda la provincia, exigiendo condiciones dignas para sus hijos, hijas y quienes la habitan cada día. La institución escuela iniciaba así su luto;
+Que, estudiantes, docentes, familias enteras, organizaciones sociales, organizaciones sindicales, se unieron con un propósito en común como centralidad: “Defender la Escuela Pública y proclamar su seguridad”. La misma que siempre mantuvo sus espacios y puertas abiertas para la contención y desarrollo social en los tiempos más difíciles y convulsionados de nuestra historia más reciente. La escuela pública que aprende, enseña y lucha, se encuentra en un momento de fuerte presencia, discusión y reclamos, trabajando para una sociedad que le exige mucho más que solo enseñar: se le exige justicia. Y la presente es parte de la reivindicación de esa justicia;
+Que producto de esta lucha fue bandera el reclamo colectivo por edificios escolares como espacios dignos y seguros, siendo los 12 puntos del Protocolo de Infraestructura Escolar, celebrados por CTERA en Acuerdo Paritario en el 2010, la garantía de las escuelas seguras para nuestras comunidades educativas;
+Que, por Sandra y Rubén, por las familias, por los estudiantes, por los trabajadores de la educación, por el conjunto de todos los trabajadores, porque los impactos sociales se acrecientan en las escuelas, porque el 2 de agosto de 2018 quedará fijado en nuestros cuerpos, mentes y corazones, porque no podemos permitirnos olvidar ni que se olvide, porque nuestras escuelas sigan de pie; simplemente, o muy especialmente, por las escuelas públicas;
+POR TODO ELLO, EL HONORABLE CONCEJO DELIBERANTE, ACUERDA Y SANCIONA CON FUERZA DE:
+ORDENANZA Nº 5230/19
+ORDENANZA
