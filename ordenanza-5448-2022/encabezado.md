@@ -1,0 +1,5 @@
+Ordenanza Nº5448
+Ordenanza Nº 5448
+Bragado, 08/04/2022
+VISTO: El expediente Nº 008/22 de este cuerpo, por el cual la Asociación Cooperadora del Hospital Municipal San Luis solicita la eximición de los gravámenes del derecho de Rifa; y, CONSIDERANDO: Que, la Asociación Cooperadora del Hospital Municipal San Luis, ha iniciado llevar adelante la venta de una rifa con la finalidad de recaudar fondos para el equipamiento de la nueva ambulancia y demás insumos para nuestro nosocomio local. Que, si bien es de público conocimiento la actividad que se viene desarrollando, con el dinero recaudado en esta rifa vamos a equipar, entre otras cosas la nueva ambulancia recientemente entregada al Hospital, y es por ello que necesitamos la eximición del pago mencionado. Que, hemos presentado todos y cada uno de los requisitos exigidos por el Departamento Ejecutivo y que dicha rifa fue autorizada por Decreto Nº 49/22 de fecha 06/01/22; y, TENIENDO EN CUENTA: Que corresponde a este Cuerpo legislar al respecto otorgando el beneficio solicitado. POR TODO ELLO, EL HONORABLE CONCEJO DELIBERANTE, ACUERDA Y SANCIONA CON FUERZA DE: ORDENANZA Nº 5448/22
+ORDENANZA
