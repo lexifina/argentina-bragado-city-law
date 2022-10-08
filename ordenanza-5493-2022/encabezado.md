@@ -1,0 +1,5 @@
+Ordenanza Nº5493
+Ordenanza Nº 5493
+Bragado, 05/08/2022
+VISTO: El Expediente Nº 4014-2559/22, el cual se refiere a la formalización de contratos de locación con opción a compra de los bienes detallados en el Anexo A; y, CONSIDERANDO: El alto gasto que genera anualmente las reparaciones de las unidades existentes en el patrimonio municipal, desgastadas por el constante y normal uso; Que, la Municipalidad se ve en la necesidad de renovar sus equipamientos en la permanente búsqueda de brindar a nuestros vecinos más y mejores servicios; Que el municipio de Bragado se extiende geográficamente y también en número de habitantes, y por esto, la demanda de servicios urbanos es creciente. Que, esta renovación también ayudará a disminuir los gastos que debe pagar el Municipio a contratistas privados; y, TENIENDO EN CUENTA: Que, corresponde al Honorable Concejo Deliberante legislar al respecto; POR TODO ELLO, EL HONORABLE CONCEJO DELIBERANTE, ACUERDA Y SANCIONA CON FUERZA DE: ORDENANZA Nº 5493/22
+ORDENANZA
