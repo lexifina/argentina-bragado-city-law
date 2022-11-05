@@ -1,0 +1,5 @@
+Ordenanza Nº5506
+Ordenanza Nº 5506
+Bragado, 05/09/2022
+VISTO: El expediente Nº 179/22 de este cuerpo, por el cual la Asociación Cooperadora Escuela Especial Nº 501 “Dr. René Favaloro”, solicita la eximición de los gravámenes del derecho de Rifa; y, CONSIDERANDO: Que, la Asociación Cooperadora Escuela Especial Nº 501 “Dr. René Favaloro”, ha iniciado llevar adelante la venta de una rifa con la finalidad de recaudar fondos para la construcción del SUM (Salón de Usos Múltiples) tan necesario para dicha Institución. Que, la Cooperadora vería con agrado esta excepción para así poder llevar adelante la compra de materiales y mano de obra. Que, hemos presentado todos y cada uno de los requisitos exigidos por el Departamento Ejecutivo y que dicha rifa fue autorizada por Decreto Municipal Nº 1842/21 de fecha 27 de diciembre de 2021; y, TENIENDO EN CUENTA: Que corresponde a este Cuerpo legislar al respecto otorgando el beneficio solicitado. POR TODO ELLO, EL HONORABLE CONCEJO DELIBERANTE, ACUERDA Y SANCIONA CON FUERZA DE: ORDENANZA Nº 5506/22
+ORDENANZA
