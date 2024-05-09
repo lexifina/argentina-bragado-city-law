@@ -1,0 +1,5 @@
+Ordenanza Nº5633
+Ordenanza Nº 5633
+Bragado, 07/03/2024
+VISTO: La donación efectuada por la Sra. Yanina Mansilla, DNI Nº 32.988.396, con dirección en calle 12 de Octubre Nº 738, para el Banco Ortopédico perteneciente a la Dirección de Discapacidad y Adulto Mayor de la Municipalidad de Bragado; y CONSIDERANDO: Que, la Sra. Yanina Mansilla ha decidido donar una (1) silla de ruedas postural Pediátrica Conti reclinable, con las características para niño/a de hasta 50 kg. y de 1.20 mts. de altura; Que, la donación es beneficiosa para la Municipalidad, por cuanto pasará a integrar el Banco Ortopédico de la Dirección de Discapacidad y Adulto Mayor, permitiendo ser dada en comodato a alguna familia de niño/a que la necesite y sea carente de recursos económicos y/o no cuente con obra social para adquirirla; Que, el art. 57º) de la Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), establece que es atribución del Concejo Deliberante aceptar las donaciones o legados ofrecidos a la Municipalidad; POR TODO ELLO, EL HONORABLE CONCEJO DELIBERANTE ACUERDA Y SANCIONA CON FUERZA DE: ORDENANZA Nº 5633/24
+ORDENANZA
