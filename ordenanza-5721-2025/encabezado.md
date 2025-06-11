@@ -1,0 +1,5 @@
+Ordenanza Nº5721
+Ordenanza Nº 5721
+Bragado, 22/04/2025
+VISTO: La donación efectuada por el Sr. Daniel Omar Farfañuk, DNI Nº 17.901.961, titular del comercio “Carlo Tessuti” ubicado en calle Macaya 41 de la ciudad de Bragado, de varias piezas de telas; y, CONSIDERANDO: Que, el Sr. Farfañuk Daniel Omar ha decidido donar varias piezas de telas a favor de la Dirección de Cultura de la Municipalidad de Bragado, para que sean utilizadas en actividades culturales y artísticas; Que, dicha donación es beneficiosa para la Municipalidad, puesto que tiene una valoración económica que asciende a la suma de Pesos Diecinueve Millones Doscientos Cincuenta y Cuatro Mil Seiscientos Noventa ($19.254.690); Que, el art. 57º) de la Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), establece que es atribución del Concejo Deliberante aceptar las donaciones o legados ofrecidos a la Municipalidad; POR TODO ELLO, EL HONORABLE CONCEJO DELIBERANTE, ACUERDA Y SANCIONA CON FUERZA DE: ORDENANZA Nº5721/25
+ORDENANZA
