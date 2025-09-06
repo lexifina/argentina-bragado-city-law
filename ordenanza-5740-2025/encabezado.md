@@ -1,0 +1,5 @@
+Ordenanza Nº5740
+Ordenanza Nº 5740
+Bragado, 04/07/2025
+VISTO: La ordenanza 5569/23 promulgada por el Decreto 631/23; y CONSIDERANDO: Que, a través de la norma citada se convalidó el Convenio celebrado entre la Municipalidad de Bragado y la empresa Urbacen S.R.L., por el cual Urbacen daba en pago lotes de terrenos para regularizar la deuda que poseía con el Municipio; Que, tanto en el visto como en artículo 2º de dicha ordenanza entre los lotes a ceder, se describe el bien inmueble identificado catastralmente como Circunscripción III, Sección D, Manzana 4, Parcela 5, Partida inmobiliaria Nº 012-30612-0, inscripto en la Matrícula Nº 25157; Que, conforme la cláusula segunda punto 3 del Convenio, la identificación catastral correcta de dicho inmueble es Manzana 4b, Parcela 5, Partida 30612-0, Matrícula 21157; Que, a fin de poder realizar la escritura traslativa de dominio de dicho inmueble a favor de la Municipalidad de Bragado deviene necesario modificar la Ordenanza Nº 5569/23 con la identificación catastral correcta; POR TODO ELLO, EL HONORABLE CONCEJO DELIBERANTE, ACUERDA Y SANCIONA CON FUERZA DE: ORDENANZA Nª5740/25
+ORDENANZA
