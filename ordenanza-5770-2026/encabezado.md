@@ -1,0 +1,5 @@
+Ordenanza Nº5770
+Ordenanza Nº 5770
+Bragado, 13/03/2026
+VISTO: La Ordenanza 3475/2007, y la nota presentada por Eduardo Rafael Mansilla y Ana María Auza; CONSIDERANDO: Que por ordenanza 3475/2007, se autorizó la transferencia a título oneroso al señor Mansilla, Eduardo Rafael, el inmueble municipal designando Circunscripción I, Sección A, Manzana 38 parcela 17b (012), sito en 12 de octubre 710 de la ciudad de Bragado; Que por nota de fecha 25/8/2025, los beneficiarios solicitan se modifique la misma para que la transferencia sea a título gratuito, dada su situación económica; Que en fecha 2 de febrero de 2026, la Secretaría de Desarrollo Humano y Productivo giró el informe realizado a los peticionantes (fs. 19) Que del informe se desprende que los mismos carecen de recursos para encuadrarse dentro de las transferencias onerosas, Que por tal motivo es pertinente dictar una nueva la ordenanza que sustituya la del visto; Que la situación encuadra en el marco de la ordenanza 5097/18, dado que la ocupación data del año 1982 POR TODO ELLO, EL HONORABLE CONCEJO DELIBERANTE, ACUERDA Y SANCIONA CON FUERZA DE: ORDENANZA N°5770//26
+ORDENANZA
