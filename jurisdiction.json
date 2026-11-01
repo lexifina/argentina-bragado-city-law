@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-bragado",
+  "code": "AR-B-BRAGADO",
+  "name": "Bragado",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-bragado-city-law",
+  "build": "built: municipal ordinances (195 ordinances, 195 versions) from https://sibom.slyt.gba.gob.ar/cities/16",
+  "language": "es",
+  "sources": 1
+}
