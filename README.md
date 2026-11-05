@@ -243,3 +243,19 @@ This is not an official publication. The binding text is the one published in th
 | Ordenanza 5619 | 18 December 2023 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/9831/contents/1995606> |
 | Ordenanza 5772 | 7 May 2026 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/14798/contents/2384850> |
 | Ordenanza 5775 | 7 May 2026 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/14798/contents/2384883> |
+
+## Additional historical ordinances
+
+The following official bulletin texts extend the as-published record. Later amending ordinances remain separate acts; these entries do not assert consolidated current wording.
+
+| Folder | Ordinance | In force |
+| --- | --- | --- |
+| `ordenanza-5245-2019/` | Ordenanza 5245/2019 | 2020-01-05 |
+| `ordenanza-5246-2019/` | Ordenanza 5246/2019 | 2020-01-05 |
+| `ordenanza-5247-2019/` | Ordenanza 5247/2019 | 2020-01-05 |
+| `ordenanza-5249-2019/` | Ordenanza 5249/2019 | 2020-01-05 |
+| `ordenanza-5160-2019/` | Ordenanza 5160/2019 | 2019-06-09 |
+| `ordenanza-5165-2019/` | Ordenanza 5165/2019 | 2019-06-09 |
+| `ordenanza-5199-2019/` | Ordenanza 5199/2019 | 2019-07-19 |
+| `ordenanza-5234-2019/` | Ordenanza 5234/2019 | 2019-11-13 |
+| `ordenanza-5256-2020/` | Ordenanza 5256/2020 | 2020-07-31 |

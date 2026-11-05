@@ -214,6 +214,25 @@
     "ordenanza-5829-2026"
    ],
    "sha256": "26ed6ab75a55db28a8b6a91daca3fd930e25db747151832219601904c39a08d3"
+  },
+  "40-depth-q236.json": {
+   "acts": [
+    "ordenanza-5245-2019",
+    "ordenanza-5246-2019",
+    "ordenanza-5247-2019",
+    "ordenanza-5249-2019"
+   ],
+   "sha256": "adb3ffee66e364ebfc81f2f668317d26a2abb68060989b2818dc316b0da4fa6d"
+  },
+  "41-depth-q236.json": {
+   "acts": [
+    "ordenanza-5160-2019",
+    "ordenanza-5165-2019",
+    "ordenanza-5199-2019",
+    "ordenanza-5234-2019",
+    "ordenanza-5256-2020"
+   ],
+   "sha256": "051db595d3e180d60fb42e35eb5a3c9857c97e2b526f2ea6d2acd1e0b996a50d"
   }
  },
  "schema": 1

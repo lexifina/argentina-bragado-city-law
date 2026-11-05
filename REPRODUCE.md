@@ -1,12 +1,14 @@
 # How this repository was made (Bragado)
 
-This file is written by the build on 2026-11-01, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Bragado | <https://sibom.slyt.gba.gob.ar/cities/16> | 2026-11-01 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Bragado | <https://sibom.slyt.gba.gob.ar/cities/16> | 2026-11-05 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
+| Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técnica, Secretaría General, Provincia de Buenos Aires: Boletín Oficial Municipal de Bragado | <https://sibom.slyt.gba.gob.ar/cities/16> | 2026-11-05 | Official municipal ordinances, published in the Boletín Oficial Municipal. Argentina's copyright law (Ley 11.723) has no express exclusion for them; ordinances are public acts of government, binding on everyone once officially published. The source states no restriction on reuse. Reproduced with attribution, following the official text. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -209,20 +211,29 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-5825-2026` | Ordenanza 5825/2026: Modifíquese el artículo 55 de la ordenanza fiscal e Impositiva 5765/25 el que quedará redactado de la siguiente manera: “Art. 55: Se autoriza al D.E. a proyectar sistemas de premios y castigos, tendientes a beneficiar a  | 1 | 2026-10-09 to 2026-10-09 |
 | `ordenanza-5827-2026` | Ordenanza 5827/2026: Declárase de interés y orden público municipal la protección de la salud animal, la prevención de zoonosis, el equilibrio poblacional de perros y gatos, la promoción de la tenencia responsable y el bienestar animal en to | 1 | 2026-10-09 to 2026-10-09 |
 | `ordenanza-5829-2026` | Ordenanza 5829/2026: Declárase de Interés Cultural, Histórico y Turístico Municipal la Ruta denominada "El Camino del Indio". ARTÍCULO 2°.- Reconócese como parte integrante de la Ruta "El Camino del Indio" el recorrido identificado en el Ane | 1 | 2026-10-09 to 2026-10-09 |
+| `ordenanza-5245-2019` | Ordenanza 5245/2019: CONVALIDAR el Convenio de Cooperación celebrado entre la MUNICIPALIDAD DE BRAGADO y la IGLESIA DE LA CIUDAD, el cual tiene por objeto coordinar entre la Secretaria de Desarrollo Social de la Municipalidad de Bragado y la | 1 | 2020-01-05 to 2020-01-05 |
+| `ordenanza-5246-2019` | Ordenanza 5246/2019: Entiéndase por biblioteca popular a una asociación civil autónoma creada por la iniciativa de un grupo de vecinos de una comunidad. Ofrece servicios y espacios de | 1 | 2020-01-05 to 2020-01-05 |
+| `ordenanza-5247-2019` | Ordenanza 5247/2019: CONVALIDASE el Convenio de Cooperación y Asistencia celebrado entre la MUNICIPALIDAD DE BRAGADO y el MINISTERIO DE CIENCIA, TECNOLOGIA E INNOVACION DE LA PROVINCIA DE BUENOS AIRES, con fecha 27 de Diciembre de 2018, el c | 1 | 2020-01-05 to 2020-01-05 |
+| `ordenanza-5249-2019` | Ordenanza 5249/2019: PRORRÓGASE la presentación del Presupuesto de Gastos, Cálculo de Recursos, Ordenanzas Impositiva y Fiscal para el año 2020, hasta el 31 de Diciembre de | 1 | 2020-01-05 to 2020-01-05 |
+| `ordenanza-5160-2019` | Ordenanza 5160/2019: AUTORIZASE al Sr Intendente Municipal , a transferir a título gratuito un lote de terreno de propiedad de la Municipalidad de Bragado denominado catastralmente como Circunscripción III, Secc.D- Parte Mza 16 Partida inmob | 1 | 2019-06-09 to 2019-06-09 |
+| `ordenanza-5165-2019` | Ordenanza 5165/2019: AUTORIZASE al Departamento Ejecutivo, a transferir a título gratuito un lote de terreno de propiedad de la Municipalidad, denominado catastralmente como Circunscripción X; Sección A; Manzana 29; Parcela 5, sito en la loc | 1 | 2019-06-09 to 2019-06-09 |
+| `ordenanza-5199-2019` | Ordenanza 5199/2019: CONVALIDASE el Contrato de Locación de inmueble celebrado por la MUNICIPALIDAD DE BRAGADO con la Sra. AMAYA KARINA MARIANA de fecha 29 de Marzo de 2019, el que tendrá una duración de veinticuatro (24) meses contados a pa | 1 | 2019-07-19 to 2019-07-19 |
+| `ordenanza-5234-2019` | Ordenanza 5234/2019: En cualquiera de los casos indicados en los precedentes artículos 5° y 6°, si se tratare de personas jurídicas, se exigirá el certificado del R.D.A. a sus directivos y responsables. | 1 | 2019-11-13 to 2019-11-13 |
+| `ordenanza-5256-2020` | Ordenanza 5256/2020: ADHIERASE a la Ley Provincial Nº 15.134 en la capacitación obligatoria en temática de género y violencia contra las mujeres para todas las personas que trabajen en la función pública en los diferentes ámbitos municipales | 1 | 2020-07-31 to 2020-07-31 |
 
-The build made 195 commits:
+The build made 204 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 195 | first version of an act |
+| 204 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
+- 0 commits on the branch `futuro`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 195 laws in the record.
-- 390 tags.
+- 204 laws in the record.
+- 408 tags.
 
 ## Dates
 
@@ -234,13 +245,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `d88bff500fa2671580f6cbcb427a9df2078fca0229b02b84437c673504047e34` (1022167 bytes).
+- Corpus: sha256 `010dc24e13c901a4253514202f4eabd4def652d88717aef2064e2720eb06eb5a` (1074027 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-195 versions of 195 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -251,6 +262,12 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- This additional historical block records official SIBOM ordinance texts as published, matching the existing as-enacted scope; it does not assert that those texts are consolidated current law.
+- Each date uses the ordinance's own commencement clause where identified, otherwise the existing corpus default of the ninth day after the official bulletin publication date; retrieval dates are never used as commencement dates.
+- Source text includes recitals, articles and textual annexes in source order. No text is supplied by a model.
+- This additional historical block records official SIBOM ordinance texts as published, matching the existing as-enacted scope; it does not assert that those texts are consolidated current law.
+- Each date uses the ordinance's own commencement clause where identified, otherwise the existing corpus default of the ninth day after the official bulletin publication date; retrieval dates are never used as commencement dates.
+- Source text includes recitals, articles and textual annexes in source order. No text is supplied by a model.
 
 ## What AI did and did not do
 
@@ -262,3 +279,5 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which norms to include; it wrote no law text. Every word of law comes from the provincial source's own texts.
+- GPT-6 wrote the offline parsing and checking code and reviewed source metadata; it generated no legal wording and performed no OCR.
+- GPT-6 wrote the offline parsing and checking code and reviewed source metadata; it generated no legal wording and performed no OCR.
